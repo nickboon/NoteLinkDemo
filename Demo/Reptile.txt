@@ -1,0 +1,7 @@
+Reptiles are a group of animals classified as a subset of the Tetrapods.
+
+Subclasses include:
+Crocodilia (crocodiles, cayman, gavials and alligators),
+Sphenodontia (tuataras),
+Squamata (lizards, snakes and worm lizards),
+Testudines (turtles, terrapins and tortoises).

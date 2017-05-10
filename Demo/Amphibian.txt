@@ -1,0 +1,7 @@
+Amphibians are a group of animals classified as a subset of the Tetrapods.
+
+Subclasses include:
+Labyrinthodontia
+Lepospondyli
+Lissamphibia
+.
